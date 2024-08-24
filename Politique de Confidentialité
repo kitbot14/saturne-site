@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Politique de Confidentialité - Bot de Gestion Discord</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        p {
+            margin: 10px 0;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Politique de Confidentialité</h1>
+        <p><strong>Dernière mise à jour :</strong> [24/08/2024]</p>
+        
+        <p>Bienvenue et merci d'utiliser notre bot de gestion Discord. Cette Politique de Confidentialité a pour but de vous informer sur la manière dont nous collectons, utilisons et protégeons vos informations personnelles lorsque vous interagissez avec notre bot. En utilisant notre bot, vous acceptez les pratiques décrites dans cette politique.</p>
+        
+        <h2>1. Informations Collectées</h2>
+        <p>Lorsque vous utilisez notre bot de gestion Discord, nous pouvons collecter les types d'informations suivants :</p>
+        <ul>
+            <li><strong>Données Utilisateur :</strong> Votre identifiant Discord, pseudonyme, et toute autre information que vous fournissez volontairement au bot.</li>
+            <li><strong>Données du Serveur :</strong> Informations liées au serveur Discord où le bot est utilisé, y compris le nom du serveur, les canaux, les messages envoyés au bot, et les rôles des utilisateurs.</li>
+            <li><strong>Données de Journaux :</strong> Nous pouvons collecter des informations liées à l'utilisation du bot, telles que les commandes utilisées, l'heure de leur exécution, et d'autres événements techniques pour le bon fonctionnement du bot.</li>
+        </ul>
+        
+        <h2>2. Utilisation des Informations</h2>
+        <p>Les informations collectées sont utilisées pour :</p>
+        <ul>
+            <li><strong>Fournir les services :</strong> Exécuter les commandes et les fonctionnalités offertes par le bot.</li>
+            <li><strong>Améliorer le bot :</strong> Analyser l'utilisation du bot pour optimiser et ajouter de nouvelles fonctionnalités.</li>
+            <li><strong>Sécurité et modération :</strong> Prévenir et détecter les abus, maintenir la sécurité et la modération sur le serveur Discord.</li>
+        </ul>
+        
+        <h2>3. Partage des Informations</h2>
+        <p>Nous ne partageons pas vos informations personnelles avec des tiers, sauf dans les cas suivants :</p>
+        <ul>
+            <li><strong>Respect de la Loi :</strong> Si la loi nous y oblige, nous pouvons divulguer des informations aux autorités compétentes.</li>
+            <li><strong>Protéger nos droits :</strong> Si nécessaire, pour protéger nos droits, notre propriété, ou assurer la sécurité des utilisateurs.</li>
+        </ul>
+        
+        <h2>4. Sécurité des Données</h2>
+        <p>Nous mettons en œuvre des mesures de sécurité raisonnables pour protéger vos informations contre tout accès, modification, divulgation ou destruction non autorisés. Cependant, aucune méthode de transmission sur Internet n'est totalement sécurisée et nous ne pouvons garantir une sécurité absolue.</p>
+        
+        <h2>5. Conservation des Données</h2>
+        <p>Les informations collectées sont conservées aussi longtemps que nécessaire pour fournir les services ou pour se conformer à nos obligations légales. Vous pouvez demander la suppression de vos données en nous contactant.</p>
+        
+        <h2>6. Droits des Utilisateurs</h2>
+        <p>En tant qu'utilisateur, vous avez le droit de :</p>
+        <ul>
+            <li><strong>Accéder à vos données :</strong> Demander une copie des informations personnelles que nous détenons sur vous.</li>
+            <li><strong>Modifier vos données :</strong> Demander la correction de toute information inexacte ou obsolète.</li>
+            <li><strong>Supprimer vos données :</strong> Demander la suppression de vos informations personnelles, sauf si nous sommes tenus de les conserver pour des raisons légales.</li>
+        </ul>
+        
+        <h2>7. Modifications de cette Politique</h2>
+        <p>Nous nous réservons le droit de modifier cette Politique de Confidentialité à tout moment. Les modifications seront publiées sur cette page, et la date de mise à jour sera indiquée en haut de la politique. Il est de votre responsabilité de vérifier régulièrement cette page pour vous tenir informé des changements.</p>
+        
+        <h2>8. Contact</h2>
+        <p>Pour toute question concernant cette Politique de Confidentialité ou pour exercer vos droits, veuillez nous contacter à : [Votre adresse e-mail de contact].</p>
+    </div>
+
+    <footer>
+        <p>&copy; [Votre Nom ou Entreprise]. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
