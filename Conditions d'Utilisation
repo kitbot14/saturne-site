@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conditions d'Utilisation - Bot de Gestion Discord</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        p {
+            margin: 10px 0;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Conditions d'Utilisation</h1>
+        <p><strong>Dernière mise à jour :</strong> [Date]</p>
+        
+        <p>Merci d'utiliser notre bot de gestion Discord. En accédant ou en utilisant notre bot, vous acceptez les présentes Conditions d'Utilisation. Veuillez les lire attentivement avant d'utiliser le bot.</p>
+        
+        <h2>1. Acceptation des Conditions</h2>
+        <p>En utilisant notre bot, vous acceptez de respecter et d'être lié par ces Conditions d'Utilisation. Si vous n'acceptez pas ces conditions, veuillez ne pas utiliser notre bot.</p>
+        
+        <h2>2. Utilisation du Bot</h2>
+        <p>Le bot est conçu pour aider à la gestion des serveurs Discord. Vous acceptez de ne pas utiliser le bot pour :</p>
+        <ul>
+            <li>Effectuer des actions illégales, nuisibles, ou non autorisées.</li>
+            <li>Envoyer des spams ou des messages indésirables.</li>
+            <li>Collecter des données personnelles sans consentement.</li>
+            <li>Endommager ou interférer avec le fonctionnement du bot ou des serveurs Discord.</li>
+        </ul>
+        
+        <h2>3. Propriété Intellectuelle</h2>
+        <p>Tous les droits, titres et intérêts relatifs au bot, y compris mais sans s'y limiter, le code source, les scripts, les graphiques et les logos, sont la propriété exclusive de [Votre Nom ou Entreprise]. Vous ne pouvez pas copier, modifier, distribuer ou utiliser ces éléments sans autorisation écrite préalable.</p>
+        
+        <h2>4. Limitation de Responsabilité</h2>
+        <p>Nous ne serons pas responsables des dommages directs, indirects, accidentels, spéciaux ou consécutifs résultant de l'utilisation ou de l'incapacité d'utiliser le bot, y compris mais sans s'y limiter, les pertes de données ou les interruptions de service.</p>
+        
+        <h2>5. Modifications des Conditions</h2>
+        <p>Nous nous réservons le droit de modifier ces Conditions d'Utilisation à tout moment. Les modifications seront publiées sur cette page, et la date de mise à jour sera indiquée en haut des conditions. Il est de votre responsabilité de vérifier régulièrement cette page pour vous tenir informé des changements.</p>
+        
+        <h2>6. Résiliation</h2>
+        <p>Nous nous réservons le droit de suspendre ou de mettre fin à votre accès au bot à tout moment, sans préavis, pour toute violation de ces Conditions d'Utilisation ou pour toute autre raison jugée nécessaire.</p>
+        
+        <h2>7. Contact</h2>
+        <p>Pour toute question concernant ces Conditions d'Utilisation, veuillez nous contacter à : [Votre adresse e-mail de contact].</p>
+    </div>
+
+    <footer>
+        <p>&copy; [Votre Nom ou Entreprise]. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
